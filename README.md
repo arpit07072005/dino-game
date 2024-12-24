@@ -1,1 +1,1 @@
-# dino-game
+# Dinogame
